@@ -2,4 +2,4 @@
 
 ## Setup instructions
 
-Download `Detect_solar_dust` folder from Detect_solar_dust.
+Download `Detect_solar_dust` folder from https://www.kaggle.com/datasets/hemanthsai7/solar-panel-dust-detection.
